@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" type="text/css" href="estilo.css">
+
+	<title>curriculo</title>
+</head>
+<p><a href="atividade 05.html">HOME</a>
+<h1>Romario Fernandes</h1>
+<ul>
+<p><li>estado civil: solteiro,brasileiro</li> </p>
+<p><li>idade: 16 anos</li>  </p>
+<p><li> endereço: jd.clementino</li></p>
+<p><li>telefone: ( 1196080-0040</li> </p>
+<p><li>email: romariofernandes05@hotmail.com</li> </p>
+</ul>
+
+
+<hr>
+
+<h3>formação:</h3>
+<ul>
+<p><li>ensino medio incompleto</li> </p>
+<p><li>informatica basica</li>  </p>
+ </ul> 
+ <hr>
+<h3>habilidades e competecias:</h3>
+<p>Comprometimento,Proatividade,autoconhecimento </p>
+<h3>objetivo:</h3
+<p>Gostaria de fazer parte do quadro de funcionários da empresa, onde eu possa crescer profissionalmente de forma produtiva para o grande desenvolvimento dessa empresa, e mais para o futuro me ingressar na carreira de minha escolha.</p>
+<hr>
+
+<h4></h4>
+</body>
+</html>
